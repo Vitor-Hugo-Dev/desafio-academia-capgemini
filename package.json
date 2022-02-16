@@ -1,0 +1,22 @@
+{
+  "name": "desafio-academia-capgemini",
+  "version": "1.0.0",
+  "description": "desafio de programação",
+  "main": "desafio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitor-Hugo-Dev/desafio-academia-capgemini.git"
+  },
+  "author": "vitor hugo da silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitor-Hugo-Dev/desafio-academia-capgemini/issues"
+  },
+  "homepage": "https://github.com/Vitor-Hugo-Dev/desafio-academia-capgemini#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
